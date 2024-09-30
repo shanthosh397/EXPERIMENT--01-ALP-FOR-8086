@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Shanthosh.G
-Reg no : 2305003008 
-Date of experiment :
+#Name : Shanthosh.G
+#Reg no : 2305003008 
+#Date of experiment :
 
 
 
