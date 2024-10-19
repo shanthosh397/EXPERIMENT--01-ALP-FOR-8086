@@ -90,70 +90,63 @@ HLT
 ![Screenshot (11)](https://github.com/user-attachments/assets/22bf09de-5246-4d2e-8a58-845455e2470d)
 
 ## SUBTRACTION of 8 bit ALP :
-
-MOV AL,84H
-MOV BL,63H
-SUB AL,BL
-HLT
+MOV AL,70H  
+MOV BL,50H  
+SUB AL,BL  
+HLT  
 
 ## Output :
 ![Screenshot (12)](https://github.com/user-attachments/assets/70d43480-6dea-4a26-a12b-8e8f0b670c36)
 
 ## MULTIPLICATION of 8 bit ALP :
-
-MOV AL,75H
-MOV BL,32H
-MUL BL
-HLT
+MOV AL,30H  
+MOV BL,03H  
+MUL BL  
+HLT  
 
 ## Output :
 ![Screenshot (13)](https://github.com/user-attachments/assets/f3b1465a-e41a-4639-8e72-def77685acbd)
 
 ## DIVISION of 8 bit ALP :
-
-MOV AL,68H
-MOV BL,18H
-DIV BL
-HLT
+MOV AL,80H  
+MOV BL,12H  
+DIV BL  
+HLT  
 
 ## Output :
 ![Screenshot (14)](https://github.com/user-attachments/assets/1fab9276-8f29-4bed-9b7c-4696c3a7f34e)
 
 ## AND of 8 bit ALP :
-
-MOV AL,33H
-MOV BL,44H
-AND AL,BL
-HLT
+MOV AL,22H  
+MOV BL,32H  
+AND AL,BL  
+HLT  
 
 ## Output :
 ![Screenshot (15)](https://github.com/user-attachments/assets/bf590f37-b3cf-4a7f-b706-4782977d2d83)
 
 ## OR of 8 bit ALP :
-
-MOV AL,45H
-MOV BL,66H
-OR AL,BL
-HLT
+MOV AL,50H  
+MOV BL,72H  
+OR AL,BL  
+HLT  
 
 ## Output :
 ![Screenshot (16)](https://github.com/user-attachments/assets/13585384-9d81-485d-af7e-3a46f89c7494)
 
 ## NOT of 8 bit ALP :
-
-MOV AL,65H
-NOT AL
-HLT
+MOV AL,60H  
+NOT AL  
+HLT  
 
 ## Output :
 ![Screenshot (17)](https://github.com/user-attachments/assets/fb7e7535-e098-48df-8b41-3670a4294775)
 
 ## XOR of 8 bit ALP :
-
-MOV AL,66H
-MOV BL,77H
-XOR AL,BL
-HLT
+MOV AL,33H  
+MOV BL,66H  
+XOR AL,BL  
+HLT  
 
 ## Output :
 ![Screenshot (18)](https://github.com/user-attachments/assets/d10829d6-adbb-4f82-850e-05a9ca121425)
